@@ -1,4 +1,4 @@
-# TalentSage SQA Automation Assignment — Candidate CV Upload
+# TalentSage Automation — Candidate CV Upload
 
 ## Overview
 This repository contains basic UI and API automation tests for Candidate CV Upload using Playwright.
